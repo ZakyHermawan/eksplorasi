@@ -6,3 +6,5 @@
 
 proyek eksplorasi:
 gmail keylogger: https://github.com/ZakyHermawan/PyGmailLoggerSMTP
+
+Repo ini digunakan untuk eksplorasi google product
